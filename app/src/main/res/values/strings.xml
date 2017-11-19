@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EsempioGuillotine</string>
+    <string name="profile">Home</string>
+    <string name="feed">Categories</string>
+    <string name="activity">Settings</string>
+    <string name="settings"></string>
+</resources>
